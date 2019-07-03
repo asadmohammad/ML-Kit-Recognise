@@ -1,4 +1,4 @@
-package com.mohammadasad.mlkitrecognise;
+package com.yourpackage.mlkitrecognise;
 
 import android.app.AlertDialog;
 import android.graphics.Bitmap;
