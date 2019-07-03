@@ -1,4 +1,4 @@
-package com.mohammadasad.mlkitrecognise.Helper;
+package com.yourpackage.mlkitrecognise.Helper;
 
 import android.graphics.Canvas;
 import android.graphics.Color;
